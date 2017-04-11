@@ -1,2 +1,4 @@
 # corona-inventarium
-an order tracking and reporting app
+/kəˈrəʊnə/
+
+An order tracking and reporting app.
